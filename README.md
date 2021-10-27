@@ -45,6 +45,7 @@ C'est dans le contenu.js qu'on affiche l'annimation verte pour les bons sites et
 REMARQUE : L'extension valide chaque appel d'URL, c'est-à-dire qu'en cas de redirection d'URL, elle évaluera également chaque accès d'URL intermittent.
 
 ## DEMO Site non malveillant:
-<img src="https://github.com/rsx97/Hate-Speech-Detection-Using-Deep-Leearning/blob/main/Hate%20Speech%20-%20with%20Pre%20process/static/image/hateSpeechUI.png" width=800/>
-## DEMO Site malveillant :
-<img src="https://github.com/rsx97/Hate-Speech-Detection-Using-Deep-Leearning/blob/main/Hate%20Speech%20-%20with%20Pre%20process/static/image/hateSpeechUI.png" width=800/>
+<img src="https://github.com/rsx97/CATCH-PHISH/blob/main/image/Capture%20d%E2%80%99%C3%A9cran%20(30).png" width=800/>
+
+## DEMO Site malveillant:
+<img src="https://github.com/rsx97/CATCH-PHISH/blob/main/image/Capture%20d%E2%80%99%C3%A9cran%20(29).png" width=800/>
