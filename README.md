@@ -4,7 +4,7 @@ L'extension Chrome de détection de phishing vise à classer, chaque URL parcour
 ## Étapes pour installer l'extension Chrome :
 1. Google Chrome -> Plus d'outils -> Extensions
 2. Cliquez sur « Charger l'extension décompressée. »
-3. Ouvrez le répertoire 'Module d'ingénierie'
+3. Ouvrez le répertoire 'CATCH-PHISH'
 4. Extension de détection de phishing prête à surveiller tous les sites chargés sur le navigateur Chrome
 
 ## URL de test (tests positifs - hameçonnage détecté) :
